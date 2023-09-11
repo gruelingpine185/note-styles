@@ -1,0 +1,7 @@
+# project
+*.log
+*.aux
+*.fls
+*.synctex.gz
+*.fdb_latexmk
+
